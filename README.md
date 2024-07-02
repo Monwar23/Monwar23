@@ -13,18 +13,16 @@
 
 - 📫 How to reach me **monwar2345@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1lUYbza8CmJ0hlFfwSrYs3o1dGqDJ0201/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/15IbHeXAa18wGsPtMFlf9yV3rlyFJw9fe/view?usp=drive_link)
 
-- 💼 Check out my portfolio [here](https://your-portfolio-link.com)
+- 💼 Check out my portfolio [here](https://monwarhossain-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/monwar-hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://fb.com/monwar.hossain.khokon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://www.behance.net/monwarkhokon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/monwar-hossain23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.facebook.com/monwarhossain.hossain.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 

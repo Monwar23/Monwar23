@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Monwar Hossain</h1>
 <p align="left">
-    I'm Monwar Hossain, a full stack developer based in Bangladesh with a passion for creating dynamic and user-friendly web applications. My journey in web development is driven by a love for technology and continuous learning.
+    I'm a full-stack developer based in Bangladesh with a passion for creating dynamic and user-friendly web applications. My journey in web development is driven by a love for technology and continuous learning.
 </p>
 <p align="left">
     As a MERN stack specialist (MongoDB, Express.js, React, and Node.js), I build responsive and scalable applications. I am proficient in HTML, CSS, JavaScript, React, and Tailwind CSS, ensuring aesthetically pleasing and robust functionality.

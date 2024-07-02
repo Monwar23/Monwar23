@@ -3,7 +3,18 @@
 </h1>
 
 <h1 align="center">Hi 👋, I'm Monwar Hossain</h1>
-<h3 align="center">A passionate full stack developer from Bangladesh</h3>
+<p align="left">
+    I'm Monwar Hossain, a dedicated full stack developer based in Bangladesh with a strong focus on creating dynamic and user-friendly web applications. My journey in web development has been driven by a deep passion for technology and a constant desire to learn and grow.
+</p>
+
+<p align="left">
+    With expertise in the MERN stack (MongoDB, Express.js, React, and Node.js), I specialize in building responsive and scalable applications. My skill set includes a strong proficiency in HTML, CSS, JavaScript, and frameworks like React and Tailwind CSS, ensuring that the applications I create are both aesthetically pleasing and functionally robust.
+</p>
+
+<p align="left">
+    In addition to front-end development, I have significant experience in back-end technologies, including Node.js and Express.js, as well as database management with MongoDB. My projects often involve implementing RESTful APIs and Firebase authentication to provide seamless user experiences.
+</p>
+
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 

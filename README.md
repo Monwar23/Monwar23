@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://github.com/Monwar23/Monwar23/blob/main/WhatsApp%20Image%202024-07-02%20at%2017.29.04_7af6d91c.jpg" alt="Monwar Hossain" />
+    <img src="https://github.com/Monwar23/Monwar23/blob/main/Monwar Hossain.jpg" alt="Monwar Hossain" />
 </h1>
 
 <h1 align="center">Hi 👋, I'm Monwar Hossain</h1>

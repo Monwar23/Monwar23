@@ -17,13 +17,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monwar23&label=Profile%20views&color=0e75b6&style=flat" alt="monwar23" /> </p>
 
-- 🌱 I’m currently learning **NextJs**
+- 🌱 I’m currently learning **NextJs, Golang and Typescript**
 
 - 📫 How to reach me **monwar2345@gmail.com**
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/15IbHeXAa18wGsPtMFlf9yV3rlyFJw9fe/view?usp=drive_link)
 
-- 💼 Check out my portfolio [here](https://monwarhossain-portfolio.vercel.app/)
+- 💼
+- Check out my portfolio [here](https://monwarhossain-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I am funny**
 
